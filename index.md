@@ -10,7 +10,7 @@ Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](
 For my research interests, I am interested in the intersection of computer vision, computer graphics. In particular, my current research focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. For some of my previous experience:
 - [3D human pose estimation in crowded scenes](https://github.com/19reborn/AlphaMocap) (2021.06 - 2021.08)
 - Edit-History Vis：An Interactive Visual Exploration and Analysis on Wikipedia Edit History (**submitted to VIS'22**, 2021.10 - 2022.4)
-- Generalizable neural radiance field for human actors with pose control(2021.09 - Present)
+- Generalizable neural radiance field for human actors with pose control(**submitted to NeurIPS'22**, 2021.09 - 2022.5)
 
 
 # Selected Awards
