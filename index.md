@@ -2,7 +2,7 @@
 I'm an undergraduate student (expected to graduate in 2023) from Turing Class, School of Electronics Engineering and Computer Science (EECS), Peking University.
 
 For my academic performance:
-- GPA: 3.81/4.00, top 5%.
+- GPA: 3.81/4.00, top 10%.
 
 # Research Experience
 Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). 
