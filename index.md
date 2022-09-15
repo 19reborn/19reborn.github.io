@@ -7,7 +7,7 @@ For my academic performance:
 # Research Experience
 Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). And I'm now having a summer internship with [Dr. Lingjie Liu](https://lingjie0206.github.io/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
 
-For my research interests, I am interested in the intersection of computer vision, computer graphics. In particular, my current research focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. For some of my previous experience:
+For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current research focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. For some of my previous experience:
 - [3D human pose estimation in crowded scenes](https://github.com/19reborn/AlphaMocap) (2021.06 - 2021.08)
 - Edit-History Vis：An Interactive Visual Exploration and Analysis on Wikipedia Edit History (Course project, **submitted to VIS'22**, 2021.10 - 2022.4)
 - Generalizable neural radiance field for human actors with pose control([arXiv Preprint](https://arxiv.org/abs/2208.11905), **co-first author**, 2021.09 - 2022.5)
