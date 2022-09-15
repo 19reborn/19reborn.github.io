@@ -9,7 +9,7 @@ Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](
 
 For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. For some of my previous experience:
 - [3D human pose estimation in crowded scenes](https://github.com/19reborn/AlphaMocap) (2021.06 - 2021.08)
-- Edit-History Vis：An Interactive Visual Exploration and Analysis on Wikipedia Edit History (Course project, will be submitted to PacificVis 2023, 2021.10 - 2022.4)
+- Edit-History Vis：An Interactive Visual Exploration and Analysis on Wikipedia Edit History (Course project, 2021.10 - 2022.4)
 - Generalized Animatable Neural Human Representation([arXiv Preprint](https://arxiv.org/abs/2208.11905), **co-first author**, 2021.09 - 2022.5)
 - Fast neural field for dynamic scenes( 2022.6 - Present)
 
