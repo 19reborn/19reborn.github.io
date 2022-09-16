@@ -5,7 +5,7 @@ For my academic performance:
 - GPA: 3.82/4.00, top 5%.
 
 # Research Experience
-Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of ](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). And I'm now having a summer internship with [Dr. Lingjie Liu](https://lingjie0206.github.io/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
+Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). And I'm now having a summer internship with [Dr. Lingjie Liu](https://lingjie0206.github.io/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
 
 For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. For some of my previous experience:
 - [3D human pose estimation in crowded scenes](https://github.com/19reborn/AlphaMocap) (2021.06 - 2021.08)
