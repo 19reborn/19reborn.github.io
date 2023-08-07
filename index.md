@@ -10,18 +10,19 @@ Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](
 For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. 
 
 For some of my previous experience:
-- NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction
-**Yiming Wang***, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu
-**ICCV 2023** 
+- NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction <br>
+**Yiming Wang***, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu <br>
+**ICCV 2023**  <br>
 [Project Page](https://vcai.mpi-inf.mpg.de/projects/NeuS2/) [Paper](https://arxiv.org/abs/2212.05231)
-- Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors
-**Yiming Wang***, Qingzhe Gao*, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen
-**arXiv 2022**
-[Project Page](https://talegqz.github.io/neural_novel_actor/) [Paper](https://arxiv.org/abs/2208.11905)
-- Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History
-Yuhan Guo, Qin Han, Yuke Lou, **Yiming Wang**, Can Liu, Xiaoru Yuan
-**PacificVis 2023**
 
+- Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors <br>
+**Yiming Wang***, Qingzhe Gao*, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen <br>
+**arXiv 2022** <br>
+[Project Page](https://talegqz.github.io/neural_novel_actor/) [Paper](https://arxiv.org/abs/2208.11905)
+
+- Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History <br>
+Yuhan Guo, Qin Han, Yuke Lou, **Yiming Wang**, Can Liu, Xiaoru Yuan <br>
+**PacificVis 2023**
 
 
 
