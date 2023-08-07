@@ -11,12 +11,12 @@ For my research interests, I am interested in the intersection of computer visio
 
 For some of my previous experience:
 - NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction <br>
-**Yiming Wang***, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu <br>
+**Yiming Wang\***, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu <br>
 **ICCV 2023**  <br>
 [Project Page](https://vcai.mpi-inf.mpg.de/projects/NeuS2/) [Paper](https://arxiv.org/abs/2212.05231)
 
 - Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors <br>
-**Yiming Wang***, Qingzhe Gao*, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen <br>
+**Yiming Wang\***, Qingzhe Gao*, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen <br>
 **arXiv 2022** <br>
 [Project Page](https://talegqz.github.io/neural_novel_actor/) [Paper](https://arxiv.org/abs/2208.11905)
 
