@@ -5,13 +5,26 @@ For my academic performance:
 - GPA: 3.82/4.00, top 5%.
 
 # Research Experience
-Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). And I'm now having a summer internship with [Dr. Lingjie Liu](https://lingjie0206.github.io/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
+Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). I had a wonderful summer internship with [Dr. Lingjie Liu](https://lingjie0206.github.io/) and [Dr.Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
 
-For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. For some of my previous experience:
-- [3D human pose estimation in crowded scenes](https://github.com/19reborn/AlphaMocap) (2021.06 - 2021.08)
-- Edit-History Vis：An Interactive Visual Exploration and Analysis on Wikipedia Edit History (Course project, 2021.10 - 2022.4)
-- Generalized Animatable Neural Human Representation([arXiv Preprint](https://arxiv.org/abs/2208.11905), **co-first author**, 2021.09 - 2022.5)
-- Fast neural field for dynamic scenes( 2022.6 - Present)
+For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. 
+
+For some of my previous experience:
+- NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction
+**Yiming Wang***, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu
+**ICCV 2023** 
+[Project Page](https://vcai.mpi-inf.mpg.de/projects/NeuS2/) [Paper](https://arxiv.org/abs/2212.05231)
+- Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors
+**Yiming Wang***, Qingzhe Gao*, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen
+**arXiv 2022**
+[Project Page](https://talegqz.github.io/neural_novel_actor/) [Paper](https://arxiv.org/abs/2208.11905)
+- Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History
+Yuhan Guo, Qin Han, Yuke Lou, **Yiming Wang**, Can Liu, Xiaoru Yuan
+**PacificVis 2023**
+
+
+
+
 
 
 # Selected Awards
@@ -21,4 +34,7 @@ For my research interests, I am interested in the intersection of computer visio
 # Skills
 **Languages**: Python, Pytorch, C/C++, CUDA, OpenGL, JavaScript
 
-**Engine**: NVIDIA OPTIX (An application framework for achieving optimal ray tracing performance on the GPU, and [my practice project](https://github.com/19reborn/Optix7Craft))
+**Projects**: 
+- NVIDIA OPTIX (An application framework for achieving optimal ray tracing performance on the GPU, and [my practice project](https://github.com/19reborn/Optix7Craft))
+
+- [3D human pose estimation in crowded scenes](https://github.com/19reborn/AlphaMocap)
