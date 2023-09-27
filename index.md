@@ -1,5 +1,5 @@
 # Education
-I'm incoming direct doctorate student in ETH Zurich. I completed my bachelor degree of computer science at Turing Class, Peking University, in June 2023.
+I'm a incoming direct doctorate student in ETH Zurich. I completed my bachelor degree of computer science at Turing Class, Peking University, in June 2023.
 
 
 # Research Experience
