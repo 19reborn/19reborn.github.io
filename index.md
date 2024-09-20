@@ -1,13 +1,27 @@
 # Education
-I'm a incoming direct doctorate student in ETH Zurich. I completed my bachelor degree of computer science at Turing Class, Peking University, in June 2023.
+I'm a second-year direct doctorate student in ETH Zurich. I completed my bachelor degree of computer science at Turing Class, Peking University, in June 2023.
 
 
-# Research Experience
-Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). I had a wonderful summer internship with [Dr. Lingjie Liu](https://lingjie0206.github.io/) and [Dr.Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
+# Research
+I'm now conducting research at [Computer Vision and Learning Group (VLG)](https://vlg.inf.ethz.ch/) with [Prof. Dr. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).
+I'm also interning at Google now.
 
+## Previous experience
+
+During my undergraduate studies, I worked in [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN), [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ), and [Prof. Mengyu Chu](https://rachelcmy.github.io/). 
+I had a wonderful summer internship in 2022 with [Dr. Lingjie Liu](https://lingjie0206.github.io/) and [Dr.Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
+
+## Research Interests
 For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. 
 
-For some of my previous experience:
+## Publications
+
+
+- Physics-Informed Learning of Characteristic Trajectories for Smoke Reconstruction <br>
+**Yiming Wang**, Siyu Tang, Mengyu Chu <br>
+**SIGGRAPH 2024**  <br>
+[[Project Page]](https://19reborn.github.io/PICT_Smoke.github.io/) [[Paper]](https://arxiv.org/abs/2407.09679) [[Code]](https://github.com/19reborn/PICT_smoke)
+
 - NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction <br>
 **Yiming Wang\***, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu <br>
 **ICCV 2023**  <br>
