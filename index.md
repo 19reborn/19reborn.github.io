@@ -16,7 +16,7 @@ For my research interests, I am interested in the intersection of computer visio
 ## Publications
 
 
-- **Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction** <br><br>
+- **Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction** <br style="line-height:150%">
 **Yiming Wang**, Shaofei Wang, Marko Mihajlovic, Siyu Tang <br>
 **SIGGRAPH Asia 2025**  <br>
 [[Project Page(coming soon)]]() [[Paper(coming soon)]]() [[Code (coming soon)]]()
