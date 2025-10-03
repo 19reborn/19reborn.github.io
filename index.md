@@ -1,10 +1,9 @@
 # Education
-I'm a second-year direct doctorate student in ETH Zurich. I completed my bachelor degree of computer science at Turing Class, Peking University, in June 2023.
+I am a second-year direct doctoral student at ETH Zurich, conducting research in [Computer Vision and Learning Group (VLG)](https://vlg.inf.ethz.ch/) under the supervision of [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). I completed my bachelor degree of computer science at Turing Class, Peking University, in June 2023.
 
 
 # Research
-I'm now conducting research at [Computer Vision and Learning Group (VLG)](https://vlg.inf.ethz.ch/) with [Prof. Dr. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).
-I'm also interning at Google now.
+I'm currently a visiting student scholar at Stanford Under the supervision of [Prof. Gordon Wetzstein](https://web.stanford.edu/~gordonwz/). Previously, I interned at Google on the Starline project.
 
 ## Previous experience
 
@@ -15,6 +14,16 @@ I had a wonderful summer internship in 2022 with [Dr. Lingjie Liu](https://lingj
 For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. 
 
 ## Publications
+
+
+- Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction <br>
+**Yiming Wang**, Shaofei Wang, Marko Mihajlovic, Siyu Tang <br>
+**SIGGRAPH Asia 2025**  <br>
+
+- Learning Efficient Fuse-and-Refine for Feed-Forward 3D Gaussian Splatting (aka *SplatVoxel: History-Aware Novel View Streaming without Temporal Training*)
+**Yiming Wang**, Lucy Chai, Xuan Luo, Michael Niemeyer, Manuel Lagunas, Stephen Lombardi, Siyu Tang, Tiancheng Sun <br>
+**NeurIPS 2025**  <br>
+[[Project Page]](https://19reborn.github.io/SplatVoxel/) [[Paper]](https://arxiv.org/abs/2407.09679)
 
 
 - Physics-Informed Learning of Characteristic Trajectories for Smoke Reconstruction <br>
