@@ -3,12 +3,12 @@ I am a second-year direct doctoral student at ETH Zurich, conducting research in
 
 
 # Research
-I'm currently a visiting student scholar at Stanford Under the supervision of [Prof. Gordon Wetzstein](https://web.stanford.edu/~gordonwz/). Previously, I interned at Google [Project Starline](https://blog.google/technology/research/project-starline/).
+I'm currently a visiting student scholar at Stanford Under the supervision of [Prof. Gordon Wetzstein](https://web.stanford.edu/~gordonwz/). Early this year, I finished my internship at Google [Project Starline](https://blog.google/technology/research/project-starline/).
 
 ## Previous experience
 
 During my undergraduate studies, I worked in [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN), [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ), and [Prof. Mengyu Chu](https://rachelcmy.github.io/). 
-I had a wonderful summer internship in 2022 with [Dr. Lingjie Liu](https://lingjie0206.github.io/) and [Dr.Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/) at MPI for Informatics  (Visual Computing and AI Department led by [Prof. Dr. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) ).
+I had a great remote internship in 2022 summer with [Lingjie Liu](https://lingjie0206.github.io/), [Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/), and [Prof. Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/) at MPI for Informatics.
 
 ## Research Interests
 For my research interests, I am interested in the intersection of computer vision and computer graphics. In particular, my current researches focus on neural scene representations, neural rendering, human performance capture and 3D reconstruction. 
