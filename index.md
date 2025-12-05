@@ -19,17 +19,17 @@ For my research interests, I am interested in the intersection of computer visio
 - **[Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction]()** <br>
 **Yiming Wang**, Shaofei Wang, Marko Mihajlovic, Siyu Tang <br>
 **SIGGRAPH Asia 2025**  <br>
-[[Project Page(coming soon)]]() [[Paper(coming soon)]]() [[Code (coming soon)]]()
+[[Project Page]](https://19reborn.github.io/nts/) [[Paper]](https://arxiv.org/abs/2511.18873) [[Code]](https://github.com/19reborn/neural-texture-splatting)
 
-- **[Learning Efficient Fuse-and-Refine for Feed-Forward 3D Gaussian Splatting](https://19reborn.github.io/SplatVoxel/)** (aka *SplatVoxel: History-Aware Novel View Streaming without Temporal Training*) <br>
+- **[Learning Efficient Fuse-and-Refine for Feed-Forward 3D Gaussian Splatting](https://19reborn.github.io/SplatVoxel/)** (previously titled *SplatVoxel: History-Aware Novel View Streaming without Temporal Training*) <br>
 **Yiming Wang**, Lucy Chai, Xuan Luo, Michael Niemeyer, Manuel Lagunas, Stephen Lombardi, Siyu Tang, Tiancheng Sun <br>
 **NeurIPS 2025**  <br>
-[[Project Page]](https://19reborn.github.io/SplatVoxel/) [[Paper]](https://arxiv.org/abs/2407.09679) [[Code (coming soon)]]()
+[[Project Page]](https://19reborn.github.io/SplatVoxel/) [[Paper]](https://arxiv.org/abs/2407.09679)
 
 - **[Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors](https://thorin666.github.io/projects/ZeroHOI/)** <br>
 Yuke Lou*, **Yiming Wang\***, Zhen Wu, Rui Zhao, Wenjia Wang, Mingyi Shi, Taku Komura <br>
 **arXiv 2025**  <br>
-[[Project Page]](https://thorin666.github.io/projects/ZeroHOI/) [[Paper]](https://arxiv.org/abs/2503.20118) [[Code (coming soon)]]()
+[[Project Page]](https://thorin666.github.io/projects/ZeroHOI/) [[Paper]](https://arxiv.org/abs/2503.20118)
 
 - **[SplatFormer: Point Transformer for Robust 3D Gaussian Splatting](https://sergeyprokudin.github.io/splatformer/)** <br>
 Yutong Chen, Marko Mihajlovic, Xiyi Chen, **Yiming Wang**, Sergey Prokudin, Siyu Tang <br>
