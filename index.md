@@ -16,6 +16,17 @@ For my research interests, I am interested in the intersection of computer visio
 ## Publications
 
 
+- **[BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](https://19reborn.github.io/BulletTime)** <br>
+**Yiming Wang**, Qihang Zhang, Shengqu Cai, Tong Wu, Jan Ackermann, Zhengfei Kuang, Yang Zheng, Frano Rajič, Siyu Tang, Gordon Wetzstein <br>
+**CVPR 2026** <br>
+[[Project Page]](https://19reborn.github.io/Bullet4D) [[Paper]](https://arxiv.org/abs/2512.05076) [[Code]](https://github.com/19reborn/BulletTime) [[Video]](https://youtu.be/HS5nUlmH4CE)
+
+
+- **[GGPT: Geometry-Grounded Point Transformer]()** <br>
+Yutong Chen, **Yiming Wang**, Xucong Zhang, Sergey Prokudin, Siyu Tang <br>
+**CVPR 2026**  <br>
+[[Project Page]](https://chenyutongthu.github.io/research/ggpt/) [[Paper]](https://arxiv.org/abs/2603.11174) [[Code]](https://github.com/ChenYutongTHU/GGPT)
+
 - **[Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction]()** <br>
 **Yiming Wang**, Shaofei Wang, Marko Mihajlovic, Siyu Tang <br>
 **SIGGRAPH Asia 2025**  <br>
